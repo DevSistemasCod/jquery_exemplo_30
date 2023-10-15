@@ -1,0 +1,11 @@
+#p1 {
+  color: black;
+}
+
+#botao {
+  background-color: #008CBA;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
